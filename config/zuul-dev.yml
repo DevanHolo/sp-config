@@ -39,4 +39,4 @@ management:
       exposure:
         include: hystrix.stream
         
-ad:  
+ad: 1
